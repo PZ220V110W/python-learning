@@ -30,3 +30,12 @@ l=r*3.14
 a=r*r*3.14
 print('周长%.2f'%l)
 print('面积%.2f'%a)
+
+
+import math
+a=float(input('请输入第一条边长/cm\n'))
+b=float(input('请输入第二条边长/cm\n'))
+c=float(input('请输入第三条边长/cm\n'))
+if a+b>c and b+c>a and c+a>b:
+    print('这三边可以组成三角形')
+
