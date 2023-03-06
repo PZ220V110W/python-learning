@@ -45,4 +45,11 @@ if a+b>c and b+c>a and c+a>b:
     print('面积为%.4f' % aera)
 else:
     print('这三边不能组成三角形')  
+    
+    
+    
+    value0=float(input('请输入数量'))
+unit=str(input('请输入单位'))
+value1=float
+
 
