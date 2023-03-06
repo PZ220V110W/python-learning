@@ -57,3 +57,5 @@ if unit=='inch' or unit=='英寸':
 elif unit=='cm' or unit=='厘米' :
     value1=0.39*value0
     print('%.2f厘米=%.2f英寸' % (value0,value1))   
+    
+#2233
