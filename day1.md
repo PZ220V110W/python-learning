@@ -59,3 +59,4 @@ elif unit=='cm' or unit=='厘米' :
     print('%.2f厘米=%.2f英寸' % (value0,value1))   
     
 #2233
+year=int(input('请输入年份'))
