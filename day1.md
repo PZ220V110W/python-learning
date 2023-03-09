@@ -62,3 +62,8 @@ elif unit=='cm' or unit=='厘米' :
 year=int(input('请输入年份'))
 flag0= year%4==0 and year%100!=0 or year%400==0
 print(flag0)
+
+scores=float(input('请输入成绩'))
+if scores>=90 :
+    print('A')
+
