@@ -64,6 +64,9 @@ flag0= year%4==0 and year%100!=0 or year%400==0
 print(flag0)
 
 scores=float(input('请输入成绩'))
+scores=float(input('请输入成绩'))
 if scores>=90 :
     print('A')
+elif scores>=80 and scores<90:
+    print('B')
 
