@@ -8,9 +8,6 @@ print('hello')
 """
 
 #2233
-#3223322
-#3232
-
 print('hello')
 
 
