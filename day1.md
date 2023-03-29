@@ -88,3 +88,4 @@ else :
 #keep going.
 #full of energy.
 #monday is a new beginning.
+# Take a break is OK, but don't stop, just keep going.
