@@ -90,3 +90,4 @@ else :
 #monday is a new beginning.
 # Take a break is OK, but don't stop, just keep going.
 #recover？ no
+# keep going do not stop.
