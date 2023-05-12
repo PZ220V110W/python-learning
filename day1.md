@@ -93,3 +93,4 @@ else :
 # keep going do not stop.
 #I am going to burn out.
 # satisfaction
+#if you want to do a lot of things, you will do well in the in n
