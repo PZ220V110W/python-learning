@@ -3,3 +3,4 @@ b=3
 a+=b
 a*=a+2
 print(a)
+print(a+b)
